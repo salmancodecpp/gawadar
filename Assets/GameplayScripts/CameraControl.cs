@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿//Syed Raahim Bukhari
+
+using UnityEngine;
 using System.Collections;
 // code written by Muhammad Saad Jumani
 public class CameraControl : MonoBehaviour
