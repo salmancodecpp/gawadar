@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+// code written by Muhammad Saad Jumani
 public class CameraControl : MonoBehaviour
 {
     public float speed = 0.1F;
