@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gawadar.CSharp.Plugins", "gawadar.CSharp.Plugins.csproj", "{17047401-B3D5-7430-02F5-8628B8BD38BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gawadar.CSharp", "gawadar.CSharp.csproj", "{F1C14F92-86A2-38F0-BC38-2AE02C8C0154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17047401-B3D5-7430-02F5-8628B8BD38BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17047401-B3D5-7430-02F5-8628B8BD38BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17047401-B3D5-7430-02F5-8628B8BD38BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17047401-B3D5-7430-02F5-8628B8BD38BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C14F92-86A2-38F0-BC38-2AE02C8C0154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C14F92-86A2-38F0-BC38-2AE02C8C0154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C14F92-86A2-38F0-BC38-2AE02C8C0154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C14F92-86A2-38F0-BC38-2AE02C8C0154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
