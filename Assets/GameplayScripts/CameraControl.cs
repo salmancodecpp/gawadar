@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿using UnityEngine; //Adnan Anwar Ali
 using System.Collections;
 // code written by Muhammad Saad Jumani
 public class CameraControl : MonoBehaviour
