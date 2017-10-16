@@ -3,6 +3,8 @@ using System.Collections;
 //Syed Raahim Bukhari
 //Adnan Anwar Ali
 // code written by Muhammad Saad Jumani
+// this is an edited comment
+
 public class CameraControl : MonoBehaviour
 {
     public float speed = 0.1F;
