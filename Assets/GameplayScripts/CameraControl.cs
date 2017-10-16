@@ -1,5 +1,7 @@
-﻿using UnityEngine; //Adnan Anwar Ali
+using UnityEngine;
 using System.Collections;
+//Syed Raahim Bukhari
+//Adnan Anwar Ali
 // code written by Muhammad Saad Jumani
 public class CameraControl : MonoBehaviour
 {
