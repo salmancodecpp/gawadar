@@ -1,6 +1,6 @@
 Name: Muhammad Saad Jumani
 RollNo: CS151107
 University: DHA Suffa University
-City: ghotki
+City: Karachi
 Semester: 5
 github: github.com/saadjumani
