@@ -1,0 +1,6 @@
+name : salman mansoor
+roll no : cs161034
+university : dha suffa university
+city : karachi
+semester : 3
+github : github.com/salmancodecpp
